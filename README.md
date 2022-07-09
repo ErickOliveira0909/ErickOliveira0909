@@ -1,16 +1,23 @@
-### Hi there 👋
+### Olá! Eu sou Erick Oliveira 👋
 
-<!--
-**ErickOliveira0909/ErickOliveira0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Trabalho com back-end
+- 🌱 Estou estudando JavaScript<img src="https://img.icons8.com/color/20/000000/javascript--v1.png"/>
+- 📫 Contate-me no email: erickalex0909@hotmail.com
 
-Here are some ideas to get you started:
+<div align="left">
+<a href="https://github.com/ErickOliveira0909">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickOliveira0909&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickOliveira0909&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
+          
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+          
+          
+          
