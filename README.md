@@ -1,7 +1,7 @@
 ### Olá! Eu sou Erick Oliveira 👋
 
 - 🔭 Trabalho com back-end
-- 🌱 Estou estudando JavaScript<img src="https://img.icons8.com/color/20/000000/javascript--v1.png"/>
+- 🌱 Estou estudando JavaScript
 - 📫 Contate-me no email: erickalex0909@hotmail.com
 
 <div align="left">
